@@ -14,7 +14,7 @@ competitor’s accounts.
 
 The competitors analyzed in this report are breweries whose
 headquarters are in North Carolina: Catawba Brewing, Wicked
-Weed Brewing, No Da Brewing, and Highland Brewing. These
+Weed Brewing, and Highland Brewing. These
 specific breweries were chosen due to the location of their
 headquarters.
 
