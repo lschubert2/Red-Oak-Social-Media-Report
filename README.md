@@ -36,3 +36,6 @@ brewery.
 ## PDF of Report
 The link to the PDF report is attached below: 
 [Red Oak Social Media Report.pdf](https://github.com/lschubert2/Red-Oak-Social-Media-Report/files/6448038/Mea.460.pdf)
+
+## Link to Raw Data
+[Social Media Data.xlsx](https://github.com/lschubert2/Red-Oak-Social-Media-Report/files/6448049/Social.Media.Data.xlsx)
