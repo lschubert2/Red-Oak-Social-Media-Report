@@ -2,6 +2,12 @@
 ## By Lindsey Schubert
 ### May, 2021
 
+
+
+![red-oak-logo](https://user-images.githubusercontent.com/78876698/117580505-38ecfa80-b0c6-11eb-95e7-1ddab29714d6.jpg)
+
+Image source: Red Oak Brewery
+### Report Overview 
 This report aims to analyze the content of Red Oak’s Twitter,
 Instagram, and Facebook accounts as well as analyze their
 competitor’s accounts.
@@ -18,10 +24,15 @@ These breweries are Sierra Nevada, Bell's Brewing, and
 Victory.
 
 After completing the analysis and compiling the overall
-trends, recommendations on how Red Oak can better its
+trends, main takeaways and recommendations on how Red Oak can better its
 social media accounts will be provided.
 
+## Coding Note
 Coding note: “Promotional” is defined in this report as posts
 that promote new types of products and “informational” is
 defined as providing information about events in the
 brewery.
+
+## PDF of Report
+The link to the PDF report is attached below: 
+[Red Oak Social Media Report.pdf](https://github.com/lschubert2/Red-Oak-Social-Media-Report/files/6448038/Mea.460.pdf)
