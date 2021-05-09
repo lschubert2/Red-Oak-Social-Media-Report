@@ -34,7 +34,7 @@ defined as providing information about events in the
 brewery.
 
 ## PDF of Report
-The link to the PDF report is attached below: 
+The link to the PDF report is attached below: [Social Report.pdf](https://github.com/lschubert2/Red-Oak-Social-Media-Report/files/6448055/Social.Report.pdf)
 
 
 ## Link to Raw Data
